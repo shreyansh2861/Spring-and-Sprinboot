@@ -1,0 +1,9 @@
+{
+  "tasks" : [ {
+    "name" : "water plants",
+    "description" : "Every 2 hours"
+  }, {
+    "name" : "latest",
+    "description" : "complete project"
+  } ]
+}

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ab54545-4df0-4f6e-bb75-822b540b3af0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/SpringNew/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringNew/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringNew/src/main/java/com/example/demo/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringNew/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringNew/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringNew/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringNew/target/classes/META-INF/maven/com.example/SpringNew/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringNew/target/classes/META-INF/maven/com.example/SpringNew/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringNew/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringNew/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringNew/target/classes/com/example/demo/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringNew/target/classes/com/example/demo/SpringDataRest1Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringNew/target/classes/com/example/demo/SpringDataRest1Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringNew/target/classes/com/example/jspFiles/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringNew/target/test-classes/com/example/demo/SpringDataRest1ApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppDemo/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppDemo/target/classes/META-INF/maven/com.example/WebAppDemo/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppDemo/target/classes/META-INF/maven/com.example/WebAppDemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppDemo/target/classes/com/example/demo/Alien.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebAppDemo/target/classes/com/example/demo/Alien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppDemo/target/classes/com/example/demo/WebAppDemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebAppDemo/target/classes/com/example/demo/WebAppDemoApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppDemo/target/classes/com/example/demo/homeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebAppDemo/target/classes/com/example/demo/homeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppDemo/target/test-classes/com/example/demo/WebAppDemoApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootjpa/src/main/java/mockitoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootjpa/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootjpa/target/classes/META-INF/maven/com.example/bootjpa/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootjpa/target/classes/META-INF/maven/com.example/bootjpa/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootjpa/target/classes/com/example/demo/BootjpaApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootjpa/target/classes/com/example/demo/controller/alienController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootjpa/target/classes/com/example/demo/dao/AlienRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootjpa/target/classes/com/example/demo/model/Alien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootjpa/target/classes/mockitoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootjpa/target/test-classes/com/example/demo/BootjpaApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/META-INF/maven/com.example/demo/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/META-INF/maven/com.example/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/Alien.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/Alien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/DemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/DemoApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/Laptop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/test-classes/com/example/demo/DemoApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="3.39725827840567E-7" />
+      <entry key="MS500" value="0.06969142741179427" />
+      <entry key="S2" value="1.4684355797077029" />
+      <entry key="S5" value="3.025219838294338" />
+      <entry key="S10" value="3.8817629569334327" />
+      <entry key="S30" value="4.704445632880335" />
+      <entry key="S60" value="5.4156164460300245" />
+      <entry key="M2" value="6.7802650166003975" />
+      <entry key="M5" value="14.033603426673217" />
+      <entry key="M10" value="29.00375413709659" />
+      <entry key="M15" value="40.72689971188562" />
+      <entry key="M30" value="60.29295897318344" />
+      <entry key="H1" value="74.81009206768465" />
+      <entry key="H2" value="83.72828528682116" />
+      <entry key="H4" value="88.68165978796806" />
+      <entry key="D1" value="93.08704653318347" />
+      <entry key="W1" value="93.8689110037589" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000000000144" />
+      <entry key="S60" value="1.0000002296463217" />
+      <entry key="M2" value="1.001501797497934" />
+      <entry key="M5" value="1.4511311785259324" />
+      <entry key="M10" value="4.339524224405578" />
+      <entry key="M15" value="7.582726517760963" />
+      <entry key="M30" value="14.04735121921696" />
+      <entry key="H1" value="19.406037478381588" />
+      <entry key="H2" value="22.87235300554413" />
+      <entry key="H4" value="24.8460621122343" />
+      <entry key="D1" value="26.62780683545135" />
+      <entry key="W1" value="26.946496829692734" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="8.395716541469062E-5" />
+      <entry key="MS500" value="0.1845586225012398" />
+      <entry key="S2" value="1.9495567333824528" />
+      <entry key="S5" value="3.7527300907092527" />
+      <entry key="S10" value="4.73093210864436" />
+      <entry key="S30" value="5.6497140387013145" />
+      <entry key="S60" value="6.385921073913881" />
+      <entry key="M2" value="7.764466152391476" />
+      <entry key="M5" value="15.466273707091474" />
+      <entry key="M10" value="33.3082776570006" />
+      <entry key="M15" value="48.26835443406691" />
+      <entry key="M30" value="74.30233463103896" />
+      <entry key="H1" value="94.19007844448628" />
+      <entry key="H2" value="106.58534553852749" />
+      <entry key="H4" value="113.51943233830441" />
+      <entry key="D1" value="119.71337520587126" />
+      <entry key="W1" value="120.8151942024699" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DkX82pMbHizGyqQtg7FsGZmwSg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHELLCHECK.PATH": "C:\\Users\\Shreyansh.Patil\\AppData\\Roaming\\JetBrains\\IntelliJIdea2026.1\\plugins\\Shell Script\\shellcheck.exe",
+    "Spring Boot.SpringDataRest1Application.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "newPoject",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SpringDataRest1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="SpringNew" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.SpringDataRest1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ab54545-4df0-4f6e-bb75-822b540b3af0" name="Changes" comment="" />
+      <created>1778826879249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778826879249</updated>
+      <workItem from="1778826887967" duration="3386000" />
+      <workItem from="1778843260887" duration="1771000" />
+      <workItem from="1779271226624" duration="451000" />
+      <workItem from="1779271923026" duration="3095000" />
+      <workItem from="1779346778562" duration="3118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

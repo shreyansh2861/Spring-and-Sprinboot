@@ -17,3 +17,13 @@
 1780636700863:tasks-delete "delete task"
 1780755951794:task-delete "delete task"
 1780755979362:tasks-delete "delete task"
+1780917250989:tasks add "delete task" "please remove this"
+1780917261757:tasks delete "delete task"
+1780917273165:tasks add "delete task" "please remove this"
+1780917284683:asks delete "delete task"
+1780917289679:tasks delete "delete task"
+1780932875756:tasks add --description "Water the plants" --createdAt "12:30" --updatedAt "12:30"
+1780936795582:tasks add --description "water the plants" --createdAt "12:30" --updatedAt "12:30"
+1780936893073:tasks add --description "water the plants" --createdAt "adfd" --updatedAt "asfas"
+1780938453334:if (tasksNode == null || !tasksNode.isArray() || tasksNode.size() == 0) {
+1780938463285:tasks add --description "water the plants" --createdAt "adfd" --updatedAt "asfas"

@@ -16,7 +16,7 @@ public class DeleteTask {
 
     final File file = new File("C:\\Users\\Shreyansh.Patil\\IdeaProjects\\Spring-and-Sprinboot\\CLI\\src\\main\\resources\\tasks.json");
 
-    @ShellMethod(key = "tasks-delete", value = "Delete tasks using the name")
+    @ShellMethod(key = "tasks delete", value = "Delete tasks using the name")
     public String deleteTask(@ShellOption(help = "Task name to delete") String name) throws IOException {
         ObjectMapper mapper = new ObjectMapper();
         try{

@@ -1,7 +1,7 @@
  package com.example.CLI.commands;
 
+import com.example.CLI.commands.helpers.DateAndTime;
 import com.example.CLI.commands.helpers.Id;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;
@@ -21,10 +21,10 @@ public class AddTask {
 
     final File file = new File("C:/Users/Shreyansh.Patil/IdeaProjects/Spring-and-Sprinboot/CLI/src/main/resources/tasks.json");
     public Id helperId = new Id();
+    public DateAndTime dnt = new DateAndTime();
 
     @ShellMethod(key = "tasks add", value = "Adds tasks to the list")
-    public String addTask(@ShellOption String description, @ShellOption(defaultValue = "todo") String status, @ShellOption String createdAt, @ShellOption String updatedAt)
-            throws IOException {
+    public String addTask(@ShellOption String description, @ShellOption(defaultValue = "todo") String status) {
 
         ObjectMapper mapper = new ObjectMapper();
 
@@ -36,6 +36,7 @@ public class AddTask {
                 root.set("tasks", tasks);
 
                 mapper.writerWithDefaultPrettyPrinter().writeValue(file, root);
+                helperId.setId(0);
             }
             JsonNode rootNode = mapper.readTree(file);
             JsonNode tasksNode = rootNode.get("tasks");
@@ -57,8 +58,8 @@ public class AddTask {
                 newTask.put("id", newId);
                 newTask.put("description", description);
                 newTask.put("status", status);
-                newTask.put("created_at", createdAt);
-                newTask.put("updated_at", updatedAt);
+                newTask.put("created_at", dnt.current);
+                newTask.put("updated_at", dnt.current);
 
                 tasksArray.add(newTask);
             }

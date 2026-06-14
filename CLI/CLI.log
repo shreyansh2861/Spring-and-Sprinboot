@@ -27,3 +27,23 @@
 1780936893073:tasks add --description "water the plants" --createdAt "adfd" --updatedAt "asfas"
 1780938453334:if (tasksNode == null || !tasksNode.isArray() || tasksNode.size() == 0) {
 1780938463285:tasks add --description "water the plants" --createdAt "adfd" --updatedAt "asfas"
+1781001773384:tasks add --description "new task do all"
+1781002252809:tasks add "new task added to the file"
+1781005033889:tasks add "new task added to the list"
+1781070848303:tasks add --description "tasks to be deleted"
+1781070872208:tasks delete 3
+1781070982259:tasks add "delete task 1"
+1781070990892:tasks add "delete tasks 2"
+1781071002215:tasks delete 3
+1781071671865:tasks delete 1
+1781071678806:tasks delete 2
+1781071683843:tasks delete 4
+1781447796099:tasks add "task 1" "water the plants"
+1781447814621:tasks add "task 2" "cook food"
+1781447847715:tasks add "delete task 1" "task to be deleted"
+1781447885190:tasks add "delete task 2" "task to be deleted"
+1781447908310:tasks delete [3,4]
+1781448329534:tasks delete 3 4
+1781448363040:tasks add "delete 3" "task to be deleted"
+1781448371684:tasks add "delete 4" "task to be deleted"
+1781448416602:tasks delete 3 4

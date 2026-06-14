@@ -1,0 +1,27 @@
+{
+  "tasks" : [ {
+    "id" : "1",
+    "description" : "task 1",
+    "status" : "water the plants",
+    "created_at" : "14-06-2026 20:06:10",
+    "updated_at" : "14-06-2026 20:06:10"
+  }, {
+    "id" : "2",
+    "description" : "task 2",
+    "status" : "cook food",
+    "created_at" : "14-06-2026 20:06:10",
+    "updated_at" : "14-06-2026 20:06:10"
+  }, {
+    "id" : 3,
+    "description" : "delete 3",
+    "status" : "task to be deleted",
+    "created_at" : "14-06-2026 20:15:14",
+    "updated_at" : "14-06-2026 20:15:14"
+  }, {
+    "id" : 4,
+    "description" : "delete 4",
+    "status" : "task to be deleted",
+    "created_at" : "14-06-2026 20:15:14",
+    "updated_at" : "14-06-2026 20:15:14"
+  } ]
+}
